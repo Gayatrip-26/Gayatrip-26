@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I’m Gayatri Patil 👋✨<br>A B.Tech IT student who loves exploring the world of technology and creating meaningful digital experiences. 🌐💡<br><br>I’m a passionate developer who enjoys building real-world projects using the MERN Stack 💻 and constantly improving my development skills.🔧⚛️<br>I also love learning DSA and OOP in Java, which help me think logically, solve problems efficiently, and write clean, structured code.📘🧠<br><br>Always curious, always learning, and always growing as a developer. 🚀🌟
+
+# Hi, I’m Gayatri Patil 👋✨
+A B.Tech IT student who loves exploring the world of technology and creating meaningful digital experiences. 🌐💡<br><br>I’m a passionate developer who enjoys building real-world projects using the MERN Stack 💻 and constantly improving my development skills.🔧⚛️<br>I also love learning DSA and OOP in Java, which help me think logically, solve problems efficiently, and write clean, structured code.📘🧠<br><br>Always curious, always learning, and always growing as a developer. 🚀🌟<br><br>
 Email Me 👉 ✉️ **gayatripp26@gmail.com** For Project or Anything Else. 😊
 
 ## 🌐 Socials:
